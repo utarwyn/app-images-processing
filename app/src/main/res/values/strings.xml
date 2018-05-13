@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traitement d\'images</string>
+    <string name="btn_traitement">Traitement</string>
+    <string name="btn_changer_image">Changer d\'image</string>
+    <string name="traitement_termine">Traitement terminé !</string>
+    <string name="traitement_cours">Traitement en cours…</string>
+</resources>
