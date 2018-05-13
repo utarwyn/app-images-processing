@@ -8,7 +8,7 @@ Created during my university course ("Conception and development of mobile appli
 > If you want to have a support for this tool, please contact me. 
 >
 
-### What's the application consists on?
+### What the application consists of?
 
 With this tool, you can see images processed in realtime without lag. You can obtain a negative effect or a yellow-filter on it after the process. This application was originally made to see the benefit of the [Android AsyncTask Object](https://developer.android.com/reference/android/os/AsyncTask) available in the SDK (and to manipulate it). You cannot select your own images, some images are inside the application to quickly test it.
 
